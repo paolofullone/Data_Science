@@ -1,1 +1,1 @@
-# DS_Paolo
+# Repositório com alguns códigos feitos em Python.
